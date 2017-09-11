@@ -1,0 +1,20 @@
+Here are the list of test Scenarios to check the 'AgeRanger' application.
+
+Scenario 1  : Check 'add person' functionality and verify the age group.
+Test cases  : Verify 'add person' functionality with Submit button.(valid min age)
+            : Verify 'add person' functionality with Submit button.(valid max age)
+            : Verify 'add person' functionality with Submit button for invalid inputs.
+            : Verify 'add person' functionality with Cancel button.
+
+Scenario 2  : Check and verify 'Edit' functionality.
+Test cases  : Verify 'Edit person's details' functionality with Ok button. (valid and invalid inputs)
+            : Verify 'Edit person's details' functionality with Close button
+            
+Scenario 3  : Check and verify 'Delete' functionality.
+Test cases  : Verify 'Delete' functionality with Ok button. (valid and invalid inputs)
+            : Verify 'Delete' functionality with Cancel button
+
+Scenario 4  : Check and verify 'Search' functionality.
+Test cases  : Verify 'Search' functionality with valid inputs.
+            : Verify 'Search' functionality with invalid inputs.
+
