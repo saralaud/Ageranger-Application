@@ -1,0 +1,7 @@
+Create a Mavan project in eclipse (ex : Automation Project 1) 
+Add the related dependencies jar files (selenium, java, jnit, cucumber and cucumber java) in pom.html file by entering the group ID and artifact ID.
+Create the package under the project under src/ test/ resources
+Create the feature files under 'src/ test/ resources' folder. (Refer : feature files uploaded)
+Create the steps file (java class) under 'src/test/java' folder. (Refer : Steps files uploaded)
+Create the runner class to setup the framework under src/test/ java (Refer : Runner.class)
+Run the runner file / package for output verification.
